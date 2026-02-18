@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            LabSim ls = new LabSim("lab1.txt");
+            LabSim ls = new LabSim("lab3.txt");
             Console.WriteLine("5. feladat: Labrintus adatai: ");
             Console.WriteLine("Sorok száma: " + ls.SorokSzama);
             Console.WriteLine("Oszlopok száma: " + ls.OszlopokSzama);
